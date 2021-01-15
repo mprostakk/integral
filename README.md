@@ -1,5 +1,8 @@
 # Integral
 
+Watch demo https://mprostakk.github.io/integral/ 
+
+# How to use
 scroll  - zoom
 mouse x - setting dx
 
